@@ -12,3 +12,6 @@ use-ssh = config url."git@github.com:".pushinsteadof https://github.com/
 
 [core]
 editor = /Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl -n -w
+
+[credential]
+helper = osxkeychain
