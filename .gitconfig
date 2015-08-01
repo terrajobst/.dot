@@ -1,12 +1,14 @@
 [user]
-name = Nick Guerrera
+name = Immo Landwerth
 
 ; This will force git to ask me who I am per repo.
 ; See for-fun and for-work aliases. 
 email = (none)
 
 [alias]
-for-fun  = config user.email "nick@technogenic.net"
-for-work = config user.email "nicholg@microsoft.com"
+for-fun  = config user.email "immo@landwerth.net"
+for-work = config user.email "immol@microsoft.com"
 use-ssh = config url."git@github.com:".pushinsteadof https://github.com/
 
+[core]
+editor = /Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl -n -w

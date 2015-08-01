@@ -69,6 +69,7 @@ alias ren=mv
 alias tracert=traceroute
 alias where='type -a'
 alias which='where'
+alias s='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
 
 # Start with BSD-safe LS_OPTIONS.
 # We'll augment them if we find GNU coreutils below.
